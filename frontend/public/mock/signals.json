@@ -1,0 +1,15 @@
+[
+    {
+      "date": "2025-06-14",
+      "time": "15:00",
+      "signal": "BUY",
+      "confidence": 87.5
+    },
+    {
+      "date": "2025-06-14",
+      "time": "14:45",
+      "signal": "SELL",
+      "confidence": 74.2
+    }
+  ]
+  
